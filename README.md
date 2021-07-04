@@ -23,10 +23,10 @@ Navigate to /target and run "java -jar app-0.0.1-SNAPSHOT.jar prod"
 
 ## How to Manage existing Persons and Addresses
 
-The ID for persons and addresses can be found by listing the entities (Menu Items 8 and 9)
+The ID for persons and addresses can be found by listing the entities (Menu Items 8 and 9)<br />
 To edit or delete a person or address, search by the ID
 
 ## Technologies
 
-Java(TM) SE Runtime Environment (build 1.8.0_271-b09)
+Java(TM) SE Runtime Environment (build 1.8.0_271-b09)<br />
 Maven 3.6.3
